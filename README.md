@@ -1,5 +1,3 @@
-<img src="https://cdn.discordapp.com/attachments/1042931646720131183/1042934075956154498/HYSTOM_2.png" alt="Hystom Network"></img>
-
 <h1 align="center">Hey there, I'm TheHonestDev.</h1>
 <h3 align="center">I'm the most honest developer you'll meet.</h3>
 
