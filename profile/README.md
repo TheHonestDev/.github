@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/thejavahacker" target="blank"><img src="https://img.shields.io/twitter/follow/thejavahacker?logo=twitter&style=for-the-badge" alt="thejavahacker" /></a> </p>
 
-- 🔭 We are currently working on an **EPOS System**
+- 🔭 We are currently working on an **Minecraft Network.**
 
-- 📫 How to reach us **contact@thehonestdev.com**
+- 📫 How to reach us **benjamin.andrews@infinitegaming.org**
 
 - ⚡ Fun fact **Never `rm -rf /*` on a linux machine.**
 
